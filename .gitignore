@@ -1,4 +1,5 @@
 .idea
-__pychache__
+__pychache__/
 flickr4m
 imagenet2hop-random2k
+simpleknn/__pycache__/

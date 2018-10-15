@@ -3,3 +3,13 @@ __pychache__/
 flickr4m
 imagenet2hop-random2k
 simpleknn/__pycache__/
+.gitignore
+.idea/dictionaries/
+.idea/hierse.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+__pycache__/
+flickr4m/
+imagenet2hop-random2k/
+synset2vec/

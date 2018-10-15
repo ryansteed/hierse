@@ -3,7 +3,7 @@ import os, random
 import simpleknn
 from bigfile import BigFile
 
-rootpath = '/Users/xirong/VisualSearch'
+rootpath = '/Users/Ryan/caliskan/git/hierse'
 collection = 'train10k'
 nr_of_images = 10000
 feature = 'color64'

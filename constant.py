@@ -1,6 +1,6 @@
 import os
 
-ROOT_PATH = os.path.join(os.environ['HOME'], 'VisualSearch')
+ROOT_PATH = os.path.join(os.environ['HOME'], 'caliskan/git/hierse')
 DEFAULT_WNID2WORDS_FILE = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data/wnid2words.pkl')
 DEFAULT_IS_A_FILE = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data/wordnet.is_a.txt')
 
